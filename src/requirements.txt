@@ -1,0 +1,13 @@
+# requirements.txt for NetZz_Scouter
+
+# Network-related libraries
+ipaddress==1.0.23
+netifaces==0.11.0
+requests==2.26.0
+
+# System interaction and utilities
+socket==1.4.0
+subprocess==0.1.0
+
+# Date and time handling
+datetime==4.3
