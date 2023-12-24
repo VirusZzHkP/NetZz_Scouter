@@ -1,5 +1,8 @@
 # NetZz Scouter
 
+![Banner](https://github.com/VirusZzHkP/NetZz_Scouter/blob/main/tests/banner.png)
+
+
 NetZz Scouter is a versatile Python tool designed for comprehensive network scanning, host discovery, port analysis, and website information retrieval.
 
 ## Features
